@@ -1,0 +1,11 @@
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Modelos\bin\Debug\net7.0\Modelos.deps.json
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Modelos\bin\Debug\net7.0\Modelos.dll
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Modelos\bin\Debug\net7.0\Modelos.pdb
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Modelos\obj\Debug\net7.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Modelos\obj\Debug\net7.0\Modelos.AssemblyInfoInputs.cache
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Modelos\obj\Debug\net7.0\Modelos.AssemblyInfo.cs
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Modelos\obj\Debug\net7.0\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Modelos\obj\Debug\net7.0\Modelos.dll
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Modelos\obj\Debug\net7.0\refint\Modelos.dll
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Modelos\obj\Debug\net7.0\Modelos.pdb
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Modelos\obj\Debug\net7.0\ref\Modelos.dll

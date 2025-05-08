@@ -1,0 +1,17 @@
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Repository\bin\Debug\net7.0\Repository.deps.json
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Repository\bin\Debug\net7.0\Repository.runtimeconfig.json
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Repository\bin\Debug\net7.0\Repository.dll
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Repository\bin\Debug\net7.0\Repository.pdb
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Repository\bin\Debug\net7.0\Modelos.dll
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Repository\bin\Debug\net7.0\Modelos.pdb
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Repository\obj\Debug\net7.0\Repository.csproj.Up2Date
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Repository\obj\Debug\net7.0\Repository.dll
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Repository\obj\Debug\net7.0\refint\Repository.dll
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Repository\obj\Debug\net7.0\Repository.pdb
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Repository\obj\Debug\net7.0\Repository.genruntimeconfig.cache
+C:\Users\Marquinhos\Downloads\spotifyApp\back-end\API\Repository\obj\Debug\net7.0\ref\Repository.dll

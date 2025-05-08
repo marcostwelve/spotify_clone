@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "spotifyWebApi.Controllers.MediaController",
+    "Method": "GetAll",
+    "RelativePath": "api/Media",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "spotifyWebApi.Controllers.MediaController",
+    "Method": "Insert",
+    "RelativePath": "api/Media",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "media",
+        "Type": "Modelos.Models.Media",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "spotifyWebApi.Controllers.MediaController",
+    "Method": "Update",
+    "RelativePath": "api/Media",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "media",
+        "Type": "Modelos.Models.Media",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "spotifyWebApi.Controllers.MediaController",
+    "Method": "Delete",
+    "RelativePath": "api/Media/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

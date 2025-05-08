@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marquinhos\\Downloads\\spotifyApp\\back-end\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2342E0B7-44CA-463F-B1E1-213A8D5C9A40}|spotifyWebApi\\spotifyWebApi.csproj|c:\\users\\marquinhos\\downloads\\spotifyapp\\back-end\\api\\spotifywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2342E0B7-44CA-463F-B1E1-213A8D5C9A40}|spotifyWebApi\\spotifyWebApi.csproj|solutionrelative:spotifywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2342E0B7-44CA-463F-B1E1-213A8D5C9A40}|spotifyWebApi\\spotifyWebApi.csproj|c:\\users\\marquinhos\\downloads\\spotifyapp\\back-end\\api\\spotifywebapi\\controllers\\mediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2342E0B7-44CA-463F-B1E1-213A8D5C9A40}|spotifyWebApi\\spotifyWebApi.csproj|solutionrelative:spotifywebapi\\controllers\\mediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3BAC89-5ECB-474D-B9D2-6AF9EB3DE61F}|Services\\Services.csproj|c:\\users\\marquinhos\\downloads\\spotifyapp\\back-end\\api\\services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3BAC89-5ECB-474D-B9D2-6AF9EB3DE61F}|Services\\Services.csproj|solutionrelative:services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133B9DD5-ABCA-4DFB-9391-61AAB6E5C40A}|Repository\\Repository.csproj|c:\\users\\marquinhos\\downloads\\spotifyapp\\back-end\\api\\repository\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133B9DD5-ABCA-4DFB-9391-61AAB6E5C40A}|Repository\\Repository.csproj|solutionrelative:repository\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MediaController.cs",
+              "DocumentMoniker": "C:\\Users\\Marquinhos\\Downloads\\spotifyApp\\back-end\\API\\spotifyWebApi\\Controllers\\MediaController.cs",
+              "RelativeDocumentMoniker": "spotifyWebApi\\Controllers\\MediaController.cs",
+              "ToolTip": "C:\\Users\\Marquinhos\\Downloads\\spotifyApp\\back-end\\API\\spotifyWebApi\\Controllers\\MediaController.cs",
+              "RelativeToolTip": "spotifyWebApi\\Controllers\\MediaController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T23:54:14.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Marquinhos\\Downloads\\spotifyApp\\back-end\\API\\Services\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IService.cs",
+              "ToolTip": "C:\\Users\\Marquinhos\\Downloads\\spotifyApp\\back-end\\API\\Services\\Interfaces\\IService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T23:48:14.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marquinhos\\Downloads\\spotifyApp\\back-end\\API\\spotifyWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "spotifyWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Marquinhos\\Downloads\\spotifyApp\\back-end\\API\\spotifyWebApi\\Program.cs",
+              "RelativeToolTip": "spotifyWebApi\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T23:35:48.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Marquinhos\\Downloads\\spotifyApp\\back-end\\API\\Repository\\Context\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Repository\\Context\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\Marquinhos\\Downloads\\spotifyApp\\back-end\\API\\Repository\\Context\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Repository\\Context\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T23:29:51.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
